@@ -41,11 +41,4 @@ This repository serves as a practical portfolio documenting my hands-on validati
 
 <img width="1553" height="336" alt="Screenshot 2026-06-12 194721" src="https://github.com/user-attachments/assets/e8f78ea2-1306-430f-930d-ae6c3200b8de" />
 
-## Verification & Platform Metrics
 
-<table>
-  <tr>
-    <td><img src="img/image_5a0f14.png" width="100%" alt="TryHackMe Profile Metrics" /></td>
-    <td><img src="img/image_5a0e3e.png" width="100%" alt="https://tryhackme.com/certificate/THM-5ZTO615AL5" /></td>
-  </tr>
-</table>
