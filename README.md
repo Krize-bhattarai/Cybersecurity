@@ -42,3 +42,4 @@ This repository serves as a practical portfolio documenting my hands-on validati
 <img width="1553" height="336" alt="Screenshot 2026-06-12 194721" src="https://github.com/user-attachments/assets/e8f78ea2-1306-430f-930d-ae6c3200b8de" />
 
 
+<img width="307" height="399" alt="Screenshot 2026-06-13 081642" src="https://github.com/user-attachments/assets/15dc14d0-4b3a-498d-b90e-93a1fca13ffb" />
