@@ -13,6 +13,33 @@ This repository serves as a practical portfolio documenting my hands-on validati
 * **Curriculum Track:** 100% Completion of the formal **SOC Level 1 Professional Pathway**.
 
 ---
+## 🛠️ Areas & Technical Topics Covered
+
+### I. Security Operations Fundaments & Frameworks
+* **Blue Team Introduction**
+* **SOC Team Internals**
+* **Cyber Defence Frameworks** (MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain)
+
+### II. Analytical & Forensic Toolsets
+* **Core SOC Solutions** (SIEM, EDR, and SOAR architectures)
+* **SIEM Triage for SOC** (Splunk and ELK operational telemetry)
+* **Threat Analysis Tools** (Threat intelligence gathering and workflow enrichment)
+
+### III. Network & Web Security Monitoring
+* **Network Traffic Analysis** (Packet inspection using Wireshark)
+* **Network Security Monitoring** (Detecting footprints of MITM, discovery, and exfiltration)
+* **Web Security Monitoring** (Analyzing web attacks and live traffic scenarios)
+
+### IV. Operating System & Host Forensics
+* **Windows Security Monitoring** (Sysmon, Event Viewer, and endpoint logs)
+* **Linux Security Monitoring** (Auditd, OSQuery, and local log auditing)
+
+### V. Operational Response & Attack Mitigation
+* **Phishing Analysis** (Artifact analysis and email security triage)
+* **Malware Concepts for SOC** (Identifying common malware behaviors and persistence mechanisms)
+* **SOC Level 1 Capstone Challenges** (Live incident validation and artifact tracking)
+
+
 
 ## Technical Competencies & Toolsets Mastered
 
