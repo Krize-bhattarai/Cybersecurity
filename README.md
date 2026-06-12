@@ -46,6 +46,6 @@ This repository serves as a practical portfolio documenting my hands-on validati
 <table>
   <tr>
     <td><img src="img/image_5a0f14.png" width="100%" alt="TryHackMe Profile Metrics" /></td>
-    <td><img src="img/image_5a0e3e.png" width="100%" alt="SOC Level 1 Syllabus Path Progress" /></td>
+    <td><img src="img/image_5a0e3e.png" width="100%" alt="https://tryhackme.com/certificate/THM-5ZTO615AL5" /></td>
   </tr>
 </table>
