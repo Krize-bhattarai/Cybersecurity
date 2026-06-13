@@ -10,7 +10,7 @@ This repository serves as a practical portfolio documenting my hands-on validati
 ## Operational Milestones & Metrics
 * **Platform Validation:** Achieved **Top 1% Global Ranking** on TryHackMe.
 * **Hands-on Laboratories:** Successfully triaged, investigated, and completed **218 specialized defensive security rooms**.
-* **Curriculum Track:** 100% Completion of the formal **SOC Level 1 Professional Pathway**.
+* **Curriculum Track:** 100% Completion of the formal **SOC Level 1 & 2 Professional Pathway**.
 
 ---
 ## 🛠️ Areas & Technical Topics Covered
@@ -64,6 +64,7 @@ This repository serves as a practical portfolio documenting my hands-on validati
 
 
 <img width="872" height="610" alt="Screenshot 2026-06-12 193244" src="https://github.com/user-attachments/assets/5c09a301-ee34-4088-9708-e31177db979b" />
+<img width="1381" height="977" alt="Screenshot 2026-06-13 121303" src="https://github.com/user-attachments/assets/f0b29cc4-bc14-4d49-a8a0-b1379560e8da" />
 
 
 <img width="1553" height="336" alt="Screenshot 2026-06-12 194721" src="https://github.com/user-attachments/assets/e8f78ea2-1306-430f-930d-ae6c3200b8de" />
